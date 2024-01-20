@@ -2,6 +2,8 @@
 
 Uma calculadora simples e interativa construída com HTML, CSS e JavaScript.
 
+Acesse a calculadora online [aqui](https://calculator-debt.surge.sh/).
+
 ## Funcionalidades
 
 - Adição, subtração, multiplicação e divisão.
