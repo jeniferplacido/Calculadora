@@ -1,13 +1,41 @@
-## Helloo pessoal ;)
+# Calculadora Interativa
 
-#### O Bruce está precisando fazer alguns cálculos e está cansado de fazer isso no papel, como podemos resolver o problema dele?
+Uma calculadora simples e interativa construída com HTML, CSS e JavaScript.
 
-![Duvida GIFs | Tenor](https://c.tenor.com/um3fCvs0nVIAAAAM/duvida-doubt.gif)
+## Funcionalidades
 
-#### Temos uma solução pra isso, vamos aproveitar todo o conteúdo que já vimos essa semana e vamos criar uma calculadora toda em JavaScript.
+- Adição, subtração, multiplicação e divisão.
+- Operações com números decimais.
+- Limpar o visor.
+- Calcular resultado.
 
-#### Aqui nesse repositório você vai encontrar o frontend já pronto, você só vai precisar criar o script  .js e fazer a calculadora do Bruce funcionar.
+## Estrutura do Projeto
 
-![Transformadores/Mentores/Corretores - Banco de Talentos na empresa Gama  Academy | 99jobs.com](https://e3ba6e8732e83984.cdn.gocache.net/uploads/image/file/2509991/regular_876d18309c8521f3b26443983862a386.jpg)
+O projeto é composto por três principais arquivos:
 
-#### Utilize somente JS, fique a vontade para mudar a estilização ;)
+1. **index.html:** Contém a estrutura HTML da calculadora.
+2. **style.css:** Fornece estilos para a calculadora.
+3. **script.js:** Implementa a lógica da calculadora em JavaScript.
+
+## Pré-requisitos
+
+Nenhum pré-requisito especial é necessário. Abra o arquivo `index.html` em um navegador web compatível para utilizar a calculadora.
+
+## Como Utilizar
+
+1. Clone este repositório:
+
+```git clone https://github.com/jeniferplacido/Calculadora.git```
+
+2. Abra o arquivo index.html em um navegador web.
+
+3. Utilize os botões da calculadora para realizar operações.
+- Clique nos números para inseri-los no visor.
+- Clique nos botões de operação (+, -, *, /) para selecionar a operação desejada.
+- Clique no botão "=" para calcular o resultado.
+- Clique no botão "C" para limpar o visor.
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
